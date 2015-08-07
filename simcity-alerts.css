@@ -49,6 +49,10 @@
     margin-left: -20px;
 }
 
+.simcity-modal.danger #floor {
+    background: url('sprites/danger-floor.jpg') repeat-x;
+}
+
 .simcity-modal #door {
     position: absolute;
     left: 50%;
